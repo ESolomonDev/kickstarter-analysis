@@ -1,5 +1,5 @@
 ## Overview of Project
-This report contains data pertaining to 4000 Kickstarter campaigns 
+This report contains data pertaining to 4000 Kickstarter campaigns that ran between 2009 and 2017.
 ---
 ### Purpose
   The purpose of this project was to provide data-based insight into what separates failed Kickstarter campaigns from successful ones. Particularly Kickstarter campaigns involving fundraising for theater productions. The data was provided in excel format of 4113 Kickstarter campaigns with around 14 data points collected and 5 additional data points extrapolated for readability between the year 2009 and 2017.
@@ -15,6 +15,7 @@ This report contains data pertaining to 4000 Kickstarter campaigns
 ### Analysis of Outcomes Based on Goals
   The overwhelming number of campaigns where for under $5000 (close to 70% of the fundraising campaigns in the data set). The campaigns that had the highest success rate had goals under $1000 being successful %76 of the time. Meaning 3/4ths of all campaigns under $1000 were successful. The second most successful bracket of campaigns aimed to raise between $1000 to $5000, those campaigns had a success rate of nearly 73%.
 There did appear to be some success in the $35000-$45000 range however pooling from less than ten projects within that goal range there is not enough data to make an accurate prediction, however further analysis might be recommended.
+![OutcomesBasedOnGoal](Resources/OutcomesBasedOnGoal.png)
 ---
 ### Challenges and Difficulties Encountered
   While the sample size of 4000 is sufficiently large enough to begin to make accurate predictions, 70% of those are under the goal of $5000 so predictions for larger goals are not as accurate.  As mentioned previously the data is already 3-4 years old so more data including more recent years would be beneficial to make more accurate predictions.  Particularly data of the past two years since the pandemic to see how fundraising has changed on Kickstarter.
