@@ -10,6 +10,7 @@ This report contains data pertaining to 4000 Kickstarter campaigns
 ---
 ### Analysis of Outcomes Based on Launch Date
   Theater Kickstarter campaigns that launch in May and June seem to be the most successful, with a success rate of 67% and 65% respectively. The success rate drops steadily through fall and winter where it reaches an all-time low in December with around a 50% success rate.  It is important to note a similar trend is seen across all categories of Kickstarter campaigns.  The most successful campaigns tend to be in May and June. While the least successful tend to be in December.  Further analysis is recommended, possible reason may be competition from other fundraising events and campaigns outside of Kickstarter.
+![OutcomeBasedOnLaunchDate](kickstarter-analysis/Resources/OutcomeBasedOnLaunchDate.png)
 ---
 ### Analysis of Outcomes Based on Goals
   The overwhelming number of campaigns where for under $5000 (close to 70% of the fundraising campaigns in the data set). The campaigns that had the highest success rate had goals under $1000 being successful %76 of the time. Meaning 3/4ths of all campaigns under $1000 were successful. The second most successful bracket of campaigns aimed to raise between $1000 to $5000, those campaigns had a success rate of nearly 73%.
