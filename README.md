@@ -6,7 +6,6 @@ This report contains data pertaining to 4000 Kickstarter campaigns
 
 ---
 ## Analysis and Challenges
-
   The data provided some very interesting and potentially useful insights on Kickstarter campaigns. It is important to note the average Kickstarter campaign is successful about 66% of the time in this data set, so roughly 2/3rds of campaigns are successful.  The success rate is slightly lower for Kickstarter pertaining to theater with a success rate of 61%.  This data is already several years old so more recent data in combination with historical data is likely to yield better more reliable predictions.
 ---
 ### Analysis of Outcomes Based on Launch Date
