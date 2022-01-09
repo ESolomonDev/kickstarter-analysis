@@ -15,8 +15,8 @@ There did appear to be some success in the $35000-$45000 range however pooling f
   While the sample size of 4000 is sufficiently large enough to begin to make accurate predictions, 70% of those are under the goal of $5000 so predictions for larger goals are not as accurate.  As mentioned previously the data is already 3-4 years old so more data including more recent years would be beneficial to make more accurate predictions.  Particularly data of the past two years since the pandemic to see how fundraising has changed on Kickstarter.
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-  1. Kickstarter campaigns launched in summer months are more likely to be successful
-  2. Kickstarter campaigns launched in winter months are less likely to be successful
+  1. Kickstarter campaigns launched in summer months are more likely to be successful. The highest success rate is in may with June being a close second.
+  2. Kickstarter campaigns launched in winter months are less likely to be successful. The lowest success rate was in December with success lagging all the way through till April.
  
 - What can you conclude about the Outcomes based on Goals?
 The smaller the goal the more likely a Kickstarter campaign is to meet its goal.
